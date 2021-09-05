@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on full stack projects based on the MERN.
 - 📫 I can be reached via email at mandeep15@gmail.com 
 - You can know more about me on linkedin <a href="https://www.linkedin.com/in/mandeep-singh-dhillon/">
-  <img align="right" alt="Mandeep's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  < alt="Mandeep's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <!---
 mandeep1580/mandeep1580 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
