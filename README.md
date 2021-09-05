@@ -7,7 +7,7 @@
 
 - 👀 I’m a management professional and entrepreneur with over 20 years of work experience.
 - 🌱 I’m currently focused towards building a strong foundation in full stack web development.
-- 💞️ I’m looking to collaborate on full stack projects based on the MERN.
+- 💞️ I’m looking to collaborate on full stack projects based on MERN.
 - 📫 I can be reached via email at mandeep15@gmail.com 
 <!---
 mandeep1580/mandeep1580 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
