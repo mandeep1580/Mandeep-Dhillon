@@ -3,6 +3,7 @@
   <img align="left" alt="Mandeep's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+##
 
 - 👀 I’m a management professional and entrepreneur with over 20 years of work experience.
 - 🌱 I’m currently focused towards building a strong foundation in full stack web development.
